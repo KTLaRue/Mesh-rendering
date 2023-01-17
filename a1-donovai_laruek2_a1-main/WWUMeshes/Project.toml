@@ -1,0 +1,10 @@
+name = "WWUMeshes"
+uuid = "57c1235b-fede-4334-9a49-d6e4edf69b36"
+authors = ["Scott Wehrwein <scott.wehrwein@wwu.edu>"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
